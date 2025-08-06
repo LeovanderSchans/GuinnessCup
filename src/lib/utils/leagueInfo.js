@@ -8,6 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Guinness Cup history</p>
+  <img scr="..\..\..\static\badge.png" alt="Guinness Cup" width="500" height="500">
   
 `;
 
