@@ -26,7 +26,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
      {
-       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Leo",
     //   "tookOver": 2012, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Beverwijk", // (optional)
@@ -49,7 +49,7 @@ export const managers = [
     },
   
      {
-       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Frits",
     //   "tookOver": 2012, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Beverwijk", // (optional)
@@ -71,7 +71,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
      {
-       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Rene",
     //   "tookOver": 2012, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Beverwijk", // (optional)
@@ -115,7 +115,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
      {
-       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Iain",
     //   "tookOver": 2012, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Beverwijk", // (optional)
@@ -137,7 +137,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
      {
-       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "John",
     //   "tookOver": 2012, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Beverwijk", // (optional)
@@ -159,7 +159,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
      {
-       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Mara",
     //   "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Beverwijk", // (optional)
@@ -181,7 +181,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
      {
-       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Frank",
     //   "tookOver": 2014, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Heemskerk", // (optional)
@@ -203,7 +203,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
      {
-       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Dave",
     //   "tookOver": 2012, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Beverwijk", // (optional)
@@ -247,7 +247,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
      {
-       "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Rob",
     //   "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Amsterdam", // (optional)
@@ -269,7 +269,7 @@ export const managers = [
     //   "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
      {
-       "roster": 12,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "name": "Zuid",
     //   "tookOver": 2012, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "West Saen", // (optional)
