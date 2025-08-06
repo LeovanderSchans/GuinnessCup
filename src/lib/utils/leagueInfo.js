@@ -47,6 +47,7 @@ export const managers = [
   
      {
        "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "managerID": "721320867249876992",
        "name": "Frits",
     //   "tookOver": 2012, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Beverwijk", // (optional)
@@ -69,6 +70,7 @@ export const managers = [
     },
      {
        "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "managerID": "718061087924232192",
        "name": "Rene",
     //   "tookOver": 2012, // (optional) used if a manager took over a team, delete this line or change to null otherwise
        "location": "Beverwijk", // (optional)
